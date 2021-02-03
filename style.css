@@ -40,12 +40,10 @@ ul {
     margin: 0px;
 }
 
-@media (max-width: 5000px) {
   .container {
     width: 650px;
     margin: 0 auto;
   }
-}
 
 @media (max-width: 540px) {
   .container {
